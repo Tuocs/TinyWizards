@@ -1,9 +1,9 @@
 const cacheName = "Well Built Wizards-TinyWizards-.1";
 const contentToCache = [
-    "Build/tinybuild.loader.js",
-    "Build/tinybuild.framework.js.unityweb",
-    "Build/tinybuild.data.unityweb",
-    "Build/tinybuild.wasm.unityweb",
+    "Build/TinyWizards.loader.js",
+    "Build/TinyWizards.framework.js.unityweb",
+    "Build/TinyWizards.data.unityweb",
+    "Build/TinyWizards.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
